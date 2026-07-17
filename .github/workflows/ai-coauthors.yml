@@ -1,0 +1,44 @@
+# Atualiza a seção "AI Co-Authors" do README varrendo os commits dos meus repos
+# em busca de trailers Co-authored-by: de agentes de IA.
+# Roda 1x/dia, a cada push e sob demanda. Usa o GITHUB_TOKEN padrão (sem setup).
+name: AI Co-Authors
+
+on:
+  schedule:
+    - cron: "30 6 * * *"
+  workflow_dispatch:
+  push:
+    branches: ["main", "master"]
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Gerar seção de co-autores IA
+        env:
+          # GITHUB_TOKEN cobre repositórios públicos. Se você tiver repos
+          # privados que também quer incluir, troque por um PAT com escopo "repo"
+          # salvo como secret (ex.: METRICS_TOKEN).
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python .github/scripts/ai_coauthors.py --user danielmnunes --readme README.md
+
+      - name: Commit das mudanças
+        run: |
+          if [[ -n "$(git status --porcelain README.md)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "chore: atualiza seção AI Co-Authors"
+            git push
+          else
+            echo "Sem mudanças."
+          fi

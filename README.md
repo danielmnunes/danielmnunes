@@ -82,6 +82,14 @@
 
 ---
 
+### 🤖 AI Co-Authors
+
+<!-- AI-COAUTHORS:START -->
+_A seção é preenchida automaticamente pela GitHub Action **AI Co-Authors**, que varre meus repositórios em busca de trailers `Co-authored-by:` de agentes de IA. Rode o workflow para gerar o conteúdo._
+<!-- AI-COAUTHORS:END -->
+
+---
+
 ### 📫 Onde me encontrar
 
 [![Portfolio](https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://danielmnunes.github.io/)
