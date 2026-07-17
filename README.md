@@ -85,7 +85,15 @@
 ### 🤖 AI Co-Authors
 
 <!-- AI-COAUTHORS:START -->
-_A seção é preenchida automaticamente pela GitHub Action **AI Co-Authors**, que varre meus repositórios em busca de trailers `Co-authored-by:` de agentes de IA. Rode o workflow para gerar o conteúdo._
+Agentes de IA que colaboraram nos meus commits (via trailer `Co-authored-by:`), agregados automaticamente:
+
+| Agente | Commits | Repositórios |
+| --- | :---: | :---: |
+| ![Claude (Anthropic)](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white) | 7 | 3 |
+| ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white) | 3 | 1 |
+| ![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-412991?style=flat-square&logo=openai&logoColor=white) | 1 | 1 |
+
+<sub>Atualizado automaticamente por GitHub Actions.</sub>
 <!-- AI-COAUTHORS:END -->
 
 ---
