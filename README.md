@@ -1,36 +1,89 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Daniel Nunes</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danielmnunes&color=yellow" alt="Profile views" /> </p>
-
-- 🔥 Back End Developer
-
-- 🔭 I’m currently working at [LetsBank](https://www.letsbank.com.br/cliente)
-
-<br><br>
-
-## 🛠 &nbsp;Tech Stack
-
-![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=222222&logo=Java&logoColor=FFFFFF&label=)
-![Spring](https://img.shields.io/static/v1?style=for-the-badge&message=Spring&color=6DB33F&logo=Spring&logoColor=FFFFFF&label=)
-![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
-![Go](https://img.shields.io/static/v1?style=for-the-badge&message=Go&color=00ADD8&logo=Go&logoColor=FFFFFF&label=)
-![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
-![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=)
-![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
-![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
-![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
-![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=)
-![Oracle](https://img.shields.io/static/v1?style=for-the-badge&message=Oracle&color=F80000&logo=Oracle&logoColor=FFFFFF&label=)
-![Amazon AWS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+AWS&color=232F3E&logo=Amazon+AWS&logoColor=FFFFFF&label=)
-![Serverless](https://img.shields.io/static/v1?style=for-the-badge&message=Serverless&color=FD5750&logo=Serverless&logoColor=FFFFFF&label=)
-
-
-<br><br>
-
-## ⚙️ &nbsp;GitHub Analytics
+<h1 align="left">Hi 👋, I'm Daniel Nunes</h1>
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=danielmnunes&show_icons=true&theme=vision-friendly-dark" alt="danielmnunes's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmnunes&layout=compact&theme=vision-friendly-dark" alt="danielmnunes's most languages"/>
+  <strong>Software Engineer · AI-Native</strong> · <a href="https://www.letsbank.com.br/cliente">@ LetsBank</a> ·
+  Ceará, Brasil 🇧🇷
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=danielmnunes&color=yellow&label=Profile%20views" alt="Profile views" />
 </p>
 
-<br><br>
+<p align="left">
+  <a href="https://danielmnunes.github.io/">🌐 Portfólio</a> ·
+  <a href="https://danielmnunes.github.io/blog">✍️ Blog</a> ·
+  <a href="https://danielmnunes.github.io/cv.pdf">📄 CV</a>
+</p>
+
+---
+
+### 👨‍💻 Sobre mim
+
+- 🚀 **6 anos** construindo sistemas escaláveis e APIs — agora focado em **desenvolvimento AI-native**
+- 🤖 Desenho e entrego backends production-ready que integram **LLMs, agentes e pipelines inteligentes** em produtos reais
+- 🔥 Base sólida em back-end e sistemas financeiros (Java + Spring) @ LetsBank
+- 🎓 Formado em Ciência da Computação — Universidade Federal do Ceará (UFC)
+- 💬 Fale comigo sobre APIs, microsserviços, LLMs e arquitetura de agentes
+
+---
+
+### 🛠 Tech Stack
+
+**Linguagens**
+
+![Java](https://img.shields.io/badge/Java-222222?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Frameworks & Runtime**
+
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+
+**AI-Native**
+
+![LLMs](https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/AI%20Agents-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
+**Dados & Cloud**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white)
+
+---
+
+### 📌 Projetos em destaque
+
+| Projeto | Descrição |
+| --- | --- |
+| [matching-game](https://github.com/danielmnunes/matching-game) | Jogo da memória feito com HTML, CSS e JS |
+| [ufc-trabalhos-projetos](https://github.com/danielmnunes/ufc-trabalhos-projetos) | Códigos desenvolvidos na graduação — UFC |
+
+> Dica: fixe (pin) de 3 a 6 repositórios que melhor representem seu trabalho em **Customize your pins**.
+
+---
+
+### 📊 GitHub Stats
+
+<!--
+  IMPORTANTE — leia o passo a passo que o Daniel recebeu no chat.
+  Os cards abaixo apontam para um SVG estático (github-metrics.svg) gerado
+  automaticamente pela GitHub Action lowlighter/metrics. Diferente do
+  github-readme-stats.vercel.app (instância pública compartilhada), esse SVG
+  fica salvo NO PRÓPRIO repositório e NÃO quebra por rate limit / 503.
+  Enquanto a Action não estiver configurada, este bloco fica sem imagem —
+  substitua ou remova conforme preferir.
+-->
+<p align="left">
+  <img src="./github-metrics.svg" alt="GitHub metrics de danielmnunes" />
+</p>
+
+---
+
+### 📫 Onde me encontrar
+
+[![Portfolio](https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://danielmnunes.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-nunes-dev)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielmnunes08@gmail.com)
