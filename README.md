@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Daniel Nunes</h1>
 
 <p align="left">
-  <strong>Software Engineer · AI-Native</strong> · <a href="https://www.letsbank.com.br/cliente">@ LetsBank</a> ·
+  <strong>Software Engineer · AI-Native</strong> · <a href="https://www.globo.com/">@ Globo</a> ·
   Ceará, Brasil 🇧🇷
   <br>
   <img src="https://komarev.com/ghpvc/?username=danielmnunes&color=yellow&label=Profile%20views" alt="Profile views" />
@@ -19,8 +19,8 @@
 
 - 🚀 **6 anos** construindo sistemas escaláveis e APIs — agora focado em **desenvolvimento AI-native**
 - 🤖 Desenho e entrego backends production-ready que integram **LLMs, agentes e pipelines inteligentes** em produtos reais
-- 🔥 Base sólida em back-end e sistemas financeiros (Java + Spring) @ LetsBank
-- 🎓 Formado em Ciência da Computação — Universidade Federal do Ceará (UFC)
+- 🔥 Base sólida em back-end e engenharia de software (Java + Spring) @ Globo
+- 🎓 Formado em **Ciência de Dados** e **Análise e Desenvolvimento de Sistemas**
 - 💬 Fale comigo sobre APIs, microsserviços, LLMs e arquitetura de agentes
 
 ---
