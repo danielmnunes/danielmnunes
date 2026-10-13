@@ -54,17 +54,6 @@
 
 ---
 
-### 📌 Featured projects
-
-| Project | Description |
-| --- | --- |
-| [strava-skill](https://github.com/danielmnunes/strava-skill) | Read-only Python agent skill for querying your own Strava data (profile, activities, statistics, zones, laps, streams, gear, routes, and clubs). |
-| [remnote-skills](https://github.com/danielmnunes/remnote-skills) | Agent skills for designing, reviewing, and importing RemNote flashcards. |
-| [mcp-hello](https://github.com/danielmnunes/mcp-hello) | Java Model Context Protocol (MCP). |
-| [refactored-erp](https://github.com/danielmnunes/refactored-erp) | TypeScript. |
-
----
-
 ### 📊 GitHub Stats
 
 <p align="left">
