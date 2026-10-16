@@ -2,32 +2,30 @@
 
 <p align="left">
   <strong>Software Engineer · AI-Native</strong> · <a href="https://www.globo.com/">@ Globo</a> ·
-  Ceará, Brasil 🇧🇷
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=danielmnunes&color=yellow&label=Profile%20views" alt="Profile views" />
+  Ceará, Brazil 🇧🇷
 </p>
 
 <p align="left">
-  <a href="https://danielmnunes.github.io/">🌐 Portfólio</a> ·
+  <a href="https://danielmnunes.github.io/">🌐 Portfolio</a> ·
   <a href="https://danielmnunes.github.io/blog">✍️ Blog</a> ·
   <a href="https://danielmnunes.github.io/cv.pdf">📄 CV</a>
 </p>
 
 ---
 
-### 👨‍💻 Sobre mim
+### 👨‍💻 About me
 
-- 🚀 **6 anos** construindo sistemas escaláveis e APIs — agora focado em **desenvolvimento AI-native**
-- 🤖 Desenho e entrego backends production-ready que integram **LLMs, agentes e pipelines inteligentes** em produtos reais
-- 🔥 Base sólida em back-end e engenharia de software (Java + Spring) @ Globo
-- 🎓 Formado em **Ciência de Dados** e **Análise e Desenvolvimento de Sistemas**
-- 💬 Fale comigo sobre APIs, microsserviços, LLMs e arquitetura de agentes
+- 🚀 **6 years** building scalable systems and APIs — now focused on **AI-native development**
+- 🤖 I design and ship production-ready backends that bring **LLMs, agents, and intelligent pipelines** into real products
+- 🔥 Solid backend and software engineering foundation (Java + Spring) @ Globo
+- 🎓 Graduated in **Data Science** and **Systems Analysis and Development**
+- 💬 Talk to me about APIs, microservices, LLMs, and agent architecture
 
 ---
 
 ### 🛠 Tech Stack
 
-**Linguagens**
+**Languages**
 
 ![Java](https://img.shields.io/badge/Java-222222?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -42,10 +40,12 @@
 
 **AI-Native**
 
-![LLMs](https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/AI%20Agents-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
+![Agent Skills](https://img.shields.io/badge/Agent%20Skills-000000?style=for-the-badge&logo=agentskills&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
-**Dados & Cloud**
+**Data & Cloud**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
@@ -54,30 +54,10 @@
 
 ---
 
-### 📌 Projetos em destaque
-
-| Projeto | Descrição |
-| --- | --- |
-| [matching-game](https://github.com/danielmnunes/matching-game) | Jogo da memória feito com HTML, CSS e JS |
-| [ufc-trabalhos-projetos](https://github.com/danielmnunes/ufc-trabalhos-projetos) | Códigos desenvolvidos na graduação — UFC |
-
-> Dica: fixe (pin) de 3 a 6 repositórios que melhor representem seu trabalho em **Customize your pins**.
-
----
-
 ### 📊 GitHub Stats
 
-<!--
-  IMPORTANTE — leia o passo a passo que o Daniel recebeu no chat.
-  Os cards abaixo apontam para um SVG estático (github-metrics.svg) gerado
-  automaticamente pela GitHub Action lowlighter/metrics. Diferente do
-  github-readme-stats.vercel.app (instância pública compartilhada), esse SVG
-  fica salvo NO PRÓPRIO repositório e NÃO quebra por rate limit / 503.
-  Enquanto a Action não estiver configurada, este bloco fica sem imagem —
-  substitua ou remova conforme preferir.
--->
 <p align="left">
-  <img src="./github-metrics.svg" alt="GitHub metrics de danielmnunes" />
+  <img src="./github-metrics.svg" alt="GitHub metrics for danielmnunes" />
 </p>
 
 ---
@@ -99,8 +79,8 @@ Agentes de IA que colaboraram nos meus commits (via trailer `Co-authored-by:`), 
 
 ---
 
-### 📫 Onde me encontrar
+### 📫 Where to find me
 
-[![Portfolio](https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://danielmnunes.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://danielmnunes.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-nunes-dev)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielmnunes08@gmail.com)
