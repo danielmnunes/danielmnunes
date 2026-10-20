@@ -69,7 +69,7 @@ Agentes de IA que colaboraram nos meus commits (via trailer `Co-authored-by:`), 
 
 | Agente | Commits | Repositórios |
 | --- | :---: | :---: |
-| ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white) | 28 | 9 |
+| ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white) | 35 | 10 |
 | ![Claude (Anthropic)](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white) | 16 | 4 |
 | ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white) | 5 | 2 |
 | ![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-412991?style=flat-square&logo=openai&logoColor=white) | 4 | 2 |
