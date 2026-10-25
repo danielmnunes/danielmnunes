@@ -1,5 +1,5 @@
 # Atualiza a seção "AI Co-Authors" do README varrendo os commits dos meus repos
-# em busca de trailers Co-authored-by: de agentes de IA.
+# em busca de trailers Co-authored-by: e Assisted-by: (formato "modelo and agente").
 # Roda 1x/dia, a cada push e sob demanda. Usa o GITHUB_TOKEN padrão (sem setup).
 name: AI Co-Authors
 
@@ -22,6 +22,9 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+
+      - name: Testar o gerador
+        run: python -m unittest discover -s .github/scripts -p 'test_*.py'
 
       - name: Gerar seção de co-autores IA
         env:
