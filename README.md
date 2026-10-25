@@ -74,7 +74,7 @@ Agentes de IA que colaboraram nos meus commits (via trailers `Co-authored-by:` e
 | ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white) | 5 | 2 | — |
 | ![Grok](https://img.shields.io/badge/Grok-000000?style=flat-square) | 5 | 1 | `grok-4.7` |
 | ![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-412991?style=flat-square&logo=openai&logoColor=white) | 5 | 3 | `GPT-6` |
-| ![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=flat-square&logo=opencode&logoColor=white) | 4 | 2 | — |
+| ![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=flat-square&logo=opencode&logoColor=white) | 5 | 3 | `deepseek-v4.1-flash` |
 
 <sub>Atualizado automaticamente por GitHub Actions. O trailer <code>Assisted-by:</code> usa o formato <code>modelo and agente</code>.</sub>
 <!-- AI-COAUTHORS:END -->
